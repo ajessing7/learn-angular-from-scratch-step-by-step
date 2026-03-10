@@ -1,5 +1,3 @@
-Dockerfile
-
 # using Node v10
 FROM node:10
 
